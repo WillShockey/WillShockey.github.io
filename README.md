@@ -1,8 +1,4 @@
-# WillShockey.github.io
 
-*Example github page for CS-HU250*
-
-[View My GitHub Profile](https://github.com/WillShockey)
 
 ---
 
@@ -16,4 +12,4 @@ This page is hosted at [WillShockey.github.io](https://WillShockey.github.io)
 
 ---
 
-*Hosted on GitHub Pages — Theme by orderedlist*
+
